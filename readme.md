@@ -20,3 +20,5 @@ Add the Mod (Only One Can Be Added at a Time for Now)
 2. launch modloader.py with python
 
 3. follow the instruction withint the modloader
+
+4. run the game once the mod is loaded
