@@ -17,6 +17,6 @@ C:\Program Files (x86)\Steam\steamapps\common\Dungeon Clawler\Windows\DungeonCla
 Add the Mod (Only One Can Be Added at a Time for Now)
 1. Extract the mod .zip folders and move them all in a dedicated folder for mods
 
-2. launch modloader.py
+2. launch modloader.py with python
 
 3. follow the instruction withint the modloader
