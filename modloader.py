@@ -11,7 +11,7 @@ Game_Data_Folder = ""
 script_dir = os.path.dirname(os.path.abspath(__file__))
 config_file = script_dir + "config.json"
 
-print("\033[7m\033[33mHello and welcome to the Dungeon Clawler mod loader\033[0mn\n\n")
+print("\033[7m\033[33mHello and welcome to the First Dungeon Clawler mod loader\033[0mn\n\n")
 
 def save_paths(mod_folder, game_data_folder):
     config = {
